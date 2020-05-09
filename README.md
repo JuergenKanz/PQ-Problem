@@ -1,4 +1,4 @@
 # PQ-Problem
 Solutions for the PQ-Problem
 
-![PQ-Problem Snapshot](https://drive.google.com/file/d/1itjOtT4GVcTMzGnME43wSClA_ZjDL5Cv/view?usp=sharing)
+![PQ-Problem Snapshot](https://1drv.ms/u/s!Aty-DGt3XGT0hOsePzD-M_sU2gqjHQ?e=79GDm3)
