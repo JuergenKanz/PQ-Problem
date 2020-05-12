@@ -1,7 +1,7 @@
 # PQ-Problem
 The P&Q problem was presented by Eliyahu M. Goldratt in his book "The Haystack Syndrome: Sifting Information Out of the Data Ocean, Croton-on-Hudson, NY: North River Press Inc., 1990. The idea is to find the best product mix with a maximum net profit by varying the numbers of product P and Q under given circumstances.
 
-In co-operation with Wolfram Research, I have launched an interactive simulation of the PQ-Problem to find the maximum net profit net by a user.
+In co-operation with Wolfram Research, I have launched an interactive simulation of the PQ-Problem to find the maximum net profit by a user.
 
 ![PQ-Problem Snapshot](https://github.com/JuergenKanz/PQ-Solution/blob/master/PQ-Problem-Snapshot.jpg)
 
