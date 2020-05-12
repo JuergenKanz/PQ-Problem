@@ -3,5 +3,5 @@ The P&Q problem was presented by Eliyahu M. Goldratt in his book "The Haystack S
 
 I have launched an interactive simulation to find the maximum profit net by the user.
 
-![PQ-Problem Snapshot](https://github.com/JuergenKanz/PQ-Solution/blob/master/PQ-Problem-Snapshot.png)
+![PQ-Problem Snapshot](https://github.com/JuergenKanz/PQ-Solution/blob/master/PQ-Problem-Snapshot.jpg)
 
