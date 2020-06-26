@@ -7,12 +7,7 @@ In co-operation with Wolfram Research, I have launched an interactive simulation
 
 GoTo http://demonstrations.wolfram.com/ThePQProblem/ 
 
-PERMANENT CITATION
- Jürgen Kanz
- "The P&Q Problem"
- http://demonstrations.wolfram.com/ThePQProblem/
- Wolfram Demonstrations Project
- Published: June 25, 2020
+PERMANENT CITATION, Jürgen Kanz, "The P&Q Problem", http://demonstrations.wolfram.com/ThePQProblem/, Wolfram Demonstrations Project, Published: June 25, 2020
 
 A mathematical solution can be easily found by Integer Linear Programming. The Mathematica notebook "The P&Q-Problem Solution with Mathematica" in this repository shows a pragmatic way how to solve this kind of problem.
 
