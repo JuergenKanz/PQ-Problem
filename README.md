@@ -9,7 +9,7 @@ GoTo http://demonstrations.wolfram.com/ThePQProblem/
 
 PERMANENT CITATION
  Jürgen Kanz
-"The P&Q Problem"
+ "The P&Q Problem"
  http://demonstrations.wolfram.com/ThePQProblem/
  Wolfram Demonstrations Project
  Published: June 25, 2020
