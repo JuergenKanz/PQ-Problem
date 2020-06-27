@@ -11,5 +11,5 @@ PERMANENT CITATION, Jürgen Kanz, "The P&Q Problem", http://demonstrations.wolfr
 
 A mathematical solution can be easily found by Integer Linear Programming. The Mathematica notebook "The P&Q-Problem Solution with Mathematica" in standard Mathematica format and CDF format shows a pragmatic way how to solve this kind of problem.
 
-A copy of the Mathematica notebook in PDF format is available as well for interested readers that do not have access to Mathematica software.
+A copy of the Mathematica notebook in PDF format is available for interested readers that do not have access to Mathematica software.
 
