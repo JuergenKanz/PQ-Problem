@@ -13,3 +13,8 @@ A mathematical solution can be easily found by Integer Linear Programming. The M
 
 A copy of the Mathematica notebook in PDF format is available for interested readers that do not have access to Mathematica software.
 
+## Update on February 2, 2021
+
+I have added a Jupyter-Notebook for the free **Wolfram Engine**, https://www.wolfram.com/engine/. Information about the **Wolfram Language kernel for Jupyter notebooks** is available here on Github: https://github.com/WolframResearch/WolframLanguageForJupyter
+
+
